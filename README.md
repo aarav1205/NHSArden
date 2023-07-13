@@ -1,5 +1,5 @@
 # NHSArden
-###  From technology stack used - Java 17, Junit-5, Mockito, Spring Boot 3, Maven
+###  Technology stack - Java 17, Junit-5, Mockito, Spring Boot 3, Maven
 ###  Excecution steps for Assesments
 #### Unzip "ArdenTechAssesmentProject.zip" load same on your IDE
 ##### 1. Snippets  Challenge --> Run "SnippetsChallenge.java" on your IDE
