@@ -3,7 +3,7 @@
 ###  Execution steps for Assesments
 #### Unzip "ArdenTechAssesmentProject.zip" load same on your IDE
 ##### 1. Snippets  Challenge --> Run "SnippetsChallenge.java" on your IDE
-##### 2. Write a program to read & process the sales record file   --> Correct the path of vaiable "SALES_RECORDS_CSV" as per your machine & Run "ReadSalesRecordFile.java" on your IDE
+##### 2. Write a program to read & process the sales record file   --> Correct the path of variable "SALES_RECORDS_CSV" as per your machine & Run "ReadSalesRecordFile.java" on your IDE
 ##### 3. Write program to identify variables. --> Run "UniqueSingleDigitsChallange.java" on your IDE
 
 #### Unzip "ardenmongodbapi.zip" load same on your IDE
